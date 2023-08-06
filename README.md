@@ -1,7 +1,7 @@
 # ErrorAnalysis_NLGEvaluation
 <b>Toward Human-Like Evaluation for Natural Language Generation with Error Analysis (ACL2023)</b><br>
 
-ErrorAnalysis_NLGEvaluation is a metric computed by analysis the explicit/ implicit errors in the hypothesis. This is interpretable and human-like since we display how the metric refine the hypothesis into a better sentence.
+ErrorAnalysis_NLGEvaluation is a NLG evaluation metric computed by analyse the explicit/ implicit errors in the hypothesis. This is interpretable and human-like since we display how the metric refine the hypothesis into a better sentence.
 
 We release the Metric, BARTScore4NLG, including the scripts of error analysis and scoring + prompting process for the replication of this study.
 
